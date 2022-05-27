@@ -3,7 +3,7 @@ import Login from './Pages/Login'
 import Page404 from './Pages/Page404'
 import Linknav from './Pages/Linknav'
 import Register2 from './Register2'
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 
 const App1 = () => {
   return (
